@@ -1,5 +1,3 @@
-console.log('ka');
-
 const menu = document.querySelector('#menu');
 const element = document.querySelector('#nav');
 
